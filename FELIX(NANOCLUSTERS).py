@@ -26,7 +26,7 @@ print("Creating of clusters  is in process ......")
 
 # Define the range for cluster sizes
 start_size = 10 # Starting cluster size
-end_size = 840 # Ending cluster size
+end_size = 2000 # Ending cluster size
 
 # Create and store clusters
 create_clusters_and_store(start_size, end_size) 
